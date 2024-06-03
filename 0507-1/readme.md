@@ -1,24 +1,3 @@
-# Linux File system, Disk management
----
-## ToC
-- [EXT4, XFS, ZFS, NTFS 파일 시스템](#ext4-xfs-zfs-ntfs-파일-시스템)
-    - [EXT4](#ext4)
-    - [XFS](#xfs)
-    - [ZFS](#zfs)
-    - [NTFS](#ntfs)
-- [df, du, lsblk, fdisk, blkid, mount](#df-du-lsblk-fdisk-blkid-mount)
-    - [df](#df-disk-free)
-    - [du](#du-disk-usage)
-    - [lsblk](#lsblk-list-block-devices)
-    - [fdisk](#fdisk)
-    - [blkid](#blkid-block-id)
-    - [mount](#mount)
-- [fsck, badblocks](#fsck-badblocks)
-    - [bad block](#bad-block)
-    - [fsck](#fsck)
-    - [badblocks](#badblocks)
-
----
 # EXT4, XFS, ZFS, NTFS 파일 시스템
 ## EXT4
 - EXT(EXTended file system)
