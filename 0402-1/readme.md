@@ -1,13 +1,4 @@
 
-
-### ToC
-- [Make 시스템](#make-시스템)
-    - [Makefile](#makefile)
-        - [설치](#설치)
-        - [Makefile의 구조](#makefile의-구조)
-    - [예제](#예제)
-- [C언어 `<...>`와 `"..."`의 차이](#c언어-와-의-차이)
-
 # Make 시스템
 
 ## Makefile
